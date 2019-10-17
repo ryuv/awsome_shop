@@ -10,10 +10,9 @@ HTML/CSS
 
 👇Portfolio List
 1. eth-shopping
-2. awsome_shop
+2. awsome_shop 👉
 
-👇Video
-https://www.youtube.com/channel/UCFcRRELeG_wQVyIeZYRwa_g
+Video 👉 https://www.youtube.com/channel/UCFcRRELeG_wQVyIeZYRwa_g
 
 
 
