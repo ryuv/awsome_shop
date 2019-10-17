@@ -10,7 +10,7 @@ HTML/CSS
 
 👇Portfolio List
 1. eth-shopping
-2. awsome_shop 👉
+2. awsome_shop 👉꾸준히 업데이트 예정
 
 Video 👉 https://www.youtube.com/channel/UCFcRRELeG_wQVyIeZYRwa_g
 
